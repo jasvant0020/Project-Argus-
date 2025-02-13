@@ -6,7 +6,7 @@ Project Argus is an advanced AI-powered surveillance and facial recognition syst
 
 ## 🔍 **What to Expect?**  
 - **Real-Time Face Recognition** – Identify and track individuals with high accuracy.  
-- **Automated instant Alerts** – Sends real-time notifications via Telegram when an identified person is detected.  
+- **Automated instant Alerts** – Sends real-time notifications when an identified person is detected.  
 - **Automated Presence Logging** – Tracks and records detected individuals efficiently.
 - **Security Integration** – Potential for integration with existing surveillance systems.
 - **Custom AI Model** - Optimized for fast and efficient performance.
